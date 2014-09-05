@@ -66,7 +66,7 @@ Topics
 ======
 Following is a list of topics and their summary. For topics with developed lesson plans, their titles are linked to these lessons.
 
-The basics of AngularJS
+[The basics of AngularJS](https://github.com/globant-ui/angular-bootcamp/blob/master/basics/README.md)
 -----------------------
 The goal of this topic is to get you comfortable with the terminology and technology and to give you a very high level understanding about how AngularJS works.
 
