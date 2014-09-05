@@ -10,8 +10,8 @@ Concepts
 ========
 * Things to read but not to worry if you do not understand it.
   * None (this topic is important and you must ensure you get it!)
-[AngularJS Filters](https://docs.angularjs.org/api/ng/filter).
-[AngularJS Filter Service](https://docs.angularjs.org/api/ng/service/$filter).
+* [AngularJS Filters](https://docs.angularjs.org/api/ng/filter).
+* [AngularJS Filter Service](https://docs.angularjs.org/api/ng/service/$filter).
 
 
 Lesson Synopsis
