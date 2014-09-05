@@ -74,7 +74,7 @@ The goal of this topic is to get you comfortable with the terminology and techno
 ------------
 You will build an AngularJS application, even if you never written one before and get an extended feel for how AngularJS works.
 
-Modules
+[Modules](https://github.com/globant-ui/angular-bootcamp/tree/master/modules)
 -------
 In this topic you will learn how to write efficient production-ready solutions encapsulating related functionality into modules.
 
