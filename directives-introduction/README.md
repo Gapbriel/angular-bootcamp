@@ -4,7 +4,7 @@ Directives can be declared as HTML Elements’ attributes. In this topic you will 
 
 Note on Directives
 ==================
-Directives, in conjunction with bidirectional binding, is a central architectural AngularJS concept and component. Although it starts relatively simple, it quickly becomes a very complex subject; your success in using AngularJS will be directly linked to your ability to use directives correctly. Also, your success in learning directives depends on your ability to learn the basics very well. Therefore, do not cut any corners here, this is a critical topic.
+Directives is a central architectural AngularJS concept and component. Although it starts relatively simple, it quickly becomes a very complex subject; your success in using AngularJS will be directly linked to your ability to use directives correctly. Also, your success in learning directives depends on your ability to learn the basics very well. Therefore, do not cut any corners here, this is a critical topic.
 
 Material
 ========
