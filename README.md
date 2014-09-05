@@ -86,7 +86,7 @@ In this topic you will learn about the scope, a core AngularJS concept, and how 
 -----------
 In this topic you will learn about the AngularJS controller, a function used to initialize and maintain your view’s scope.
 
-Expressions
+[Expressions](https://github.com/globant-ui/angular-bootcamp/tree/master/expressions)
 -----------
 Expressions are used throughout AngularJS. In this topic you will learn about AngularJS expressions, how they are evaluated, and how to use them.
 
