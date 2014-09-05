@@ -90,7 +90,7 @@ In this topic you will learn about the AngularJS controller, a function used to 
 -----------
 Expressions are used throughout AngularJS. In this topic you will learn about AngularJS expressions, how they are evaluated, and how to use them.
 
-Unit Tests
+[Unit Tests](https://github.com/globant-ui/angular-bootcamp/tree/master/unit-tests)
 ----------
 JavaScript is a dynamically typed language which comes with great power of expression, but it also comes with almost no help from the compiler. For this reason any code written in JavaScript needs to come with a strong set of tests. AngularJS has many built-in features which makes testing your Angular applications easy. So there is no excuse for not testing.
 
