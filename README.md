@@ -98,7 +98,7 @@ JavaScript is a dynamically typed language which comes with great power of expre
 -------
 In this topic you will learn about AngularJS filters, a mechanism to format data; AngularJS offers a number of built-in filters and AngularJS enables you to build your own.
 
-Directives - Introduction
+[Directives - Introduction](https://github.com/globant-ui/angular-bootcamp/tree/master/directives-introduction)
 -------------------------
 Directives are the AngularJS mechanism for you to modify the DOM. In this topic you will learn about how to define and use AngularJS directives.
 
