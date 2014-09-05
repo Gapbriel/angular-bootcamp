@@ -60,7 +60,7 @@ Each topic will be harnessed into a lesson plan, as follows:
 * **Materials** - The tools required for you to complete this topic.
 * **Concepts** - The theoretical material that you must familiarize yourself with before you can complete this topic.
 * **Lesson Synopsis** - A brief description of how you will use the materials and concepts to achieve the objectives.
-* **Objectives** - Exercises to demonstrate you learned the topic's skills expected from successfully completing the topic.
+* **Objectives** - The objectives are enunciated as exercises to demonstrate you learned the topic.
 
 Topics
 ======
