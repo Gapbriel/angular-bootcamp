@@ -94,7 +94,7 @@ Expressions are used throughout AngularJS. In this topic you will learn about An
 ----------
 JavaScript is a dynamically typed language which comes with great power of expression, but it also comes with almost no help from the compiler. For this reason any code written in JavaScript needs to come with a strong set of tests. AngularJS has many built-in features which makes testing your Angular applications easy. So there is no excuse for not testing.
 
-Filters
+[Filters](https://github.com/globant-ui/angular-bootcamp/tree/master/filters)
 -------
 In this topic you will learn about AngularJS filters, a mechanism to format data; AngularJS offers a number of built-in filters and AngularJS enables you to build your own.
 
