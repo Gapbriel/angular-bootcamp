@@ -78,7 +78,7 @@ You will build an AngularJS application, even if you never written one before an
 -------
 In this topic you will learn how to write efficient production-ready solutions encapsulating related functionality into modules.
 
-Scopes
+[Scopes](https://github.com/globant-ui/angular-bootcamp/tree/master/scopes)
 ------
 In this topic you will learn about the scope, a core AngularJS concept, and how it is used as the source of truth throughout AngularJS.
 
