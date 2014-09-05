@@ -82,7 +82,7 @@ In this topic you will learn how to write efficient production-ready solutions e
 ------
 In this topic you will learn about the scope, a core AngularJS concept, and how it is used as the source of truth throughout AngularJS.
 
-Controllers
+[Controllers](https://github.com/globant-ui/angular-bootcamp/tree/master/controller)
 -----------
 In this topic you will learn about the AngularJS controller, a function used to initialize and maintain your view’s scope.
 
