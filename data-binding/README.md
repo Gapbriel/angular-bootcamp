@@ -1,5 +1,5 @@
-Synopsis
-========
+Data-binding Synopsis
+=====================
 You will build an AngularJS application, even if you never written one before and get an extended feel for how AngularJS works.
 
 Materials
