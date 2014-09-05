@@ -1,5 +1,5 @@
-Synopsis
-========
+MODULE Synopsis
+===============
 In this topic you will learn how to write efficient production-ready solutions encapsulating related functionality into modules.
 
 Material
@@ -14,6 +14,7 @@ Concepts
 * Module setter, module getter.
 
 Lesson Synopsis
+===============
 * Study the concepts.
 * Open the [Angular Boot-camp - Data binding - Hello World](http://plnkr.co/edit/C78r4vqXNwXjJ3LZUHm0?p=preview) plunker. Type a name in the input box; observe it being show in the text area below.
 * Address the questions and exercises in the Learning Objectives section.
