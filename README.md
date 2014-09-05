@@ -70,7 +70,7 @@ Following is a list of topics and their summary. For topics with developed lesso
 -----------------------
 The goal of this topic is to get you comfortable with the terminology and technology and to give you a very high level understanding about how AngularJS works.
 
-Data binding
+[Data binding](https://github.com/globant-ui/angular-bootcamp/tree/master/data-binding)
 ------------
 You will build an AngularJS application, even if you never written one before and get an extended feel for how AngularJS works.
 
