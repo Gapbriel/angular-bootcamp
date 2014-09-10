@@ -102,7 +102,7 @@ In this topic you will learn about AngularJS filters, a mechanism to format data
 -------------------------
 Directives are the AngularJS mechanism for you to modify the DOM. In this topic you will learn about how to define and use AngularJS directives.
 
-Directives - Configuration
+[Directives - Configuration](https://github.com/globant-ui/angular-bootcamp/tree/master/directives-configuration)
 --------------------------
 Directives can be declared as HTML Elements’ attributes. In this topic you will learn about how configure your directives via the directive declaration attribute.
 
