@@ -44,6 +44,6 @@ Collect your answers to the questions and exercises below and forward them to yo
 * Fork the [Angular Boot Camp  - Directive Configuration - Invalid Scope](http://plnkr.co/edit/sTHMY6) plunker. Fix it and re-factor it to use an isolated scope configured from its HTML Element attributes.
 * When using the @ scope data-binding strategy you can also data-bind values from enclosing scopes by using interpolation {{}} in the attribute value. Please elaborate on this statement.
 * Fork the [Angular Boot Camp  - Directive Configuration - Alternate scope names](http://plnkr.co/edit/Pf6xcM) plunker. Re-factor it to use attribute names different from that of its scope.
-* Why do the unit tests in the [http://plnkr.co/edit/0imcbk?p=preview](http://plnkr.co/edit/0imcbk) plunker fail?
-* Fork the [http://plnkr.co/edit/0imcbk?p=preview](http://plnkr.co/edit/0imcbk) plunker. Fix and re-factor it to configure its scope from values in its ancestors’ scopes.
+* Why do the unit tests in the [Angular Boot Camp  - Directive Configuration - Failing Tests](http://plnkr.co/edit/0imcbk) plunker fail?
+* Fork the [Angular Boot Camp  - Directive Configuration - Failing Tests](http://plnkr.co/edit/0imcbk) plunker. Fix and re-factor it to configure its scope from values in its ancestors’ scopes.
 * Identify the scopes used in the [Angular Boot Camp  - Directive Configuration - Challenging Scope Question](http://plnkr.co/edit/DOCM5S) plunker.
